@@ -1,6 +1,6 @@
 FROM quay.io/eclipse/che-java11-maven:nightly
 
-MAINTAINER tech-tejendra
+MAINTAINER Siva
 
 USER root
 
